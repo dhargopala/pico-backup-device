@@ -42,3 +42,7 @@ This is a DIY Project to build a compact QR code backup device, on the Raspberry
 * Either of the 4 buttons can be used to select an option, which will then load the QR code.
 * After the QR is loaded on screen, we may press any button to return back to the main menu.
 * Current implementation allows upto 3 QR codes to be saved, however changes in the code can accomodate several more to be stored in this device.
+
+![](https://i.imgur.com/4GrSexl.jpeg)
+![](https://i.imgur.com/9V6lAMO.jpeg)
+![](https://i.imgur.com/uZ9ymey.jpeg)
